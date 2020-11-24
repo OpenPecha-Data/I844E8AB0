@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD95807
   title: འདུལ་བ་བདུད་རྩིའི་ཉིང་ཁུ
-  volume: ''
+  volume:
+    1992db26889047588faf7127cbaac3bc:
+      image_group_id: I1PD95832
+      title: Volume 1 of 'dul ba bdud rts'i nying khu
+      volume_number: 1
+      total_pages: 390
   author: ''
+ebook_metadata:
+  title: འདུལ་བ་བདུད་རྩིའི་ཉིང་ཁུ
+  author: ''
+  sku: P000300
+  cover: cover.jpg
+  layers:
+  - pagination
